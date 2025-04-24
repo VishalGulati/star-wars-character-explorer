@@ -60,10 +60,12 @@ src/
 │   ├── Favourites.tsx
 ├── context/
 │   └── FavouritesContext.tsx
+├── types/
+│   └── index.ts
 ├── utils/
-│   └── api.ts
+│   └── index.ts
 ├── App.tsx
-├── index.tsx
+├── index.js
 ```
 
 ## Thoughts on Scaling
