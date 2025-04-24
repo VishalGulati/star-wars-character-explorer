@@ -19,7 +19,7 @@ This project is a React + TypeScript web application that fetches character data
 ### Installation
 
 ```bash
-git clone [https://github.com/your-username/star-wars-character-explorer.git](https://github.com/VishalGulati/star-wars-character-explorer.git)
+git clone https://github.com/VishalGulati/star-wars-character-explorer.git
 cd star-wars-character-explorer
 npm install
 # or
